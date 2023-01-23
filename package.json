@@ -1,0 +1,19 @@
+{
+  "name": "coin-collectors-van",
+  "version": "1.0.0",
+  "description": "",
+  "main": "KeyPressListener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joey-Red/MP_GAME_TUTORIAL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joey-Red/MP_GAME_TUTORIAL/issues"
+  },
+  "homepage": "https://github.com/Joey-Red/MP_GAME_TUTORIAL#readme"
+}
